@@ -4,7 +4,9 @@ Apresentação web dos 16 módulos do Sorteou, com interfaces recriadas em HTML 
 
 ## Acessar
 
-[Ver apresentação](https://rodrigobs4.github.io/sorteou-apresentacao/)
+[Ver apresentação na Vercel](https://sorteou-apresentacao.vercel.app/)
+
+[Versão no GitHub Pages](https://rodrigobs4.github.io/sorteou-apresentacao/)
 
 ## Usar
 
